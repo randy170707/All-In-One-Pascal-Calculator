@@ -10,4 +10,6 @@
 	Exiting (To exit just type in anything, it doesn't matter) - Done/done/Exit/exit
 
 # How to use?
-	Put the code into a pascal compiler and then compile it, an executable should be created. Run it and the calculator should be working.
+	Put the code into a pascal compiler and then compile it.
+	An executable should be created.
+	Run it and the calculator should be working.
