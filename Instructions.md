@@ -1,5 +1,5 @@
 # All-In-One-Pascal-Calculator
-# The title says it all, made by myself. It's free to use for everyone
+The title says it all, made by myself. It's free to use for everyone
 
 # Commands:
 	Selecting Addition - Add/add/Addition/addition
