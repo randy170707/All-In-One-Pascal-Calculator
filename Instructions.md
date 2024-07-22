@@ -16,6 +16,4 @@ The title says it all, made by myself. It's free to use for everyone
 # Or
 	Download
 	https://github.com/randy170707/All-In-One-Pascal-Calculator/blob/main/RepeatingCalculator.exe
-	and
-	https://github.com/randy170707/All-In-One-Pascal-Calculator/blob/main/RepeatingCalculator.o
-	then run the executable to use the calculator.
+then run the executable to use the calculator.
